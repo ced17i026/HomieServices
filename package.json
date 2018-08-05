@@ -1,0 +1,23 @@
+{
+  "name": "homieservices",
+  "version": "1.0.0",
+  "description": "#All the Styling and image used in this is just formal and i don't claim that they are mine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivsnkr/HomieServices.git"
+  },
+  "author": "Shiv Shankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivsnkr/HomieServices/issues"
+  },
+  "homepage": "https://github.com/sivsnkr/HomieServices#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}

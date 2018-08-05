@@ -1,0 +1,134 @@
+
+.header{
+    padding-top: 8px;
+    background-color: rgba(220, 220, 220,0.7);
+    height: 70px;
+}
+.header strong{
+    font-size: 2.5em;
+    padding-left: 50px;
+}
+.headerButtons{
+    float: right;
+    margin: 8px;
+}
+.headerButtons .ui{
+    font-size: 15px;
+}
+.header .primary{
+    margin-right: 12px;
+}
+.jumbotron{
+    border-radius: 0;
+}
+.search{
+    border-radius: none;
+    background: url("https://images.unsplash.com/photo-1533394585128-5c81c64f9a4d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=336fd4c2c8b049438bdf4ce2a300a545&auto=format&fit=crop&w=1050&q=80");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.search .searchBar{
+    outline: none;
+    width: 900px;
+    margin: auto auto;
+    height: 200px;
+}
+.search .searchBar strong{
+    font-size: 3em;
+}
+.search .searchBar p{
+    font-size: 2em;
+}
+.search .searchBar .fields .input-0{
+    width: 800px;
+    margin-right: 10px;
+}
+/* Menu bar styling begin here */
+.menuBar{
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: space-between;
+    margin-bottom: 20px;
+}
+.typeContainer{
+    padding: 10px 30px;
+}
+.menuItem{
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+
+/* Menu bar ends here */
+.thumbnail{
+    border: 1px solid rgba(128, 128, 128,0.7);
+    width: 297px;
+    padding: 2px;
+}
+.thumbnail p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+}
+/* Footer styling */
+.footer {
+    background: #353535;
+    padding: 5em 0;
+}
+.footer-grid h3 {
+    color: #fff;
+    font-size: 1.7em;
+    margin-bottom: 1em;
+}
+.footer-grid ul{
+    padding-left: 0;
+}
+.footer-grid p {
+    color: #ABABAB;
+    line-height: 2.2em;
+    font-size: 14px;
+}
+.footer-grid ul li {
+    list-style-type: none;
+    font-size: 14px;
+    line-height: 2.2em;
+    color: #ABABAB;
+}
+.footer-grid ul li a {
+    color: #ABABAB;
+}
+.footer-bottom h2 a {
+    font-size: 50px;
+    text-decoration: none;
+    color: #fff;
+}
+.footer-bottom h2 span {
+    font-size: 12px;
+    display: block;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-family: 'Noto Sans', sans-serif;
+    padding-top: 6px;
+    padding-bottom: 20px;
+}
+.footer-bottom {
+    text-align: center;
+    margin: 4em 0 0;
+}
+.fo-grid1 p {
+    font-size: 1em;
+    line-height: 2em;
+    color: #fff;
+}
+.fo-grid1 p a {
+    text-decoration: none;
+    color: #fff;
+}
+.copy-right p {
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 4em;
+}
